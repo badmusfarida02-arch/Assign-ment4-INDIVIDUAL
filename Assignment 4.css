@@ -1,0 +1,69 @@
+.par{
+  display: inline-block;
+  vertical-align: top;
+  margin-top: 150px;
+  margin-left: 150px;
+}
+.par p{
+  width: 450px;
+  color: gray;
+}
+.oc{
+  display: inline-block;
+  margin-top: 150px;
+  margin-left: 100px;
+  padding: 12px;
+  box-shadow: 8px 8px 8px 8px rgba(0, 0, 0, 0.1);
+}
+.doc p{
+  font-size: 20px;
+  font-weight: bold;
+  display: inline-block;
+  margin-top: 50px;
+}
+.doc input{
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 10px;
+  padding-right: 150px;
+}
+.i{
+  margin-left: 20px;
+}
+.l{
+  margin-right: 250px;
+}
+.m{
+ margin-right: 280px; 
+}
+.n{
+ margin-right: 240px;
+}
+.ya p{
+  font-size: 20px;
+  font-weight: bold;
+  margin-top: 50px;
+}
+.ya input{
+  padding-top: 20px;
+  padding-bottom: 20px;
+  padding-left: 10px;
+  padding-right: 500px;
+}
+.ya button{
+  margin-top: 40px;
+  background-color: rgb(14, 243, 205);
+  border: none;
+  color: white;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  padding-left: 10px;
+  padding-left: 300px;
+  padding-right: 300px;
+  border-radius: 8px;
+  font-size: 20px;
+}
+.ya span{
+  color: rgb(7, 240, 240);
+  text-decoration: underline;
+}
